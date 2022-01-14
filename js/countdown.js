@@ -1,3 +1,4 @@
+
 export default class contagem{
     constructor(futureDate){
         this.futureDate = futureDate
